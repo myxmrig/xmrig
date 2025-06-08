@@ -54,7 +54,7 @@
     nano config.json
     ```
   - Edit line ke 94 sesuai keinginan
-    `"user": "DOGE:D5wNKhb3fgnyk6NPEFtrgYta5YaSMg38pP.MBP#h1zg-9j2n",`
+    `"user": "LTC:ME4cNtXbjyugCByv2imeS48ryyN8EMyZUH.Aa",`
     > Keterangan `{NAMA KOIN}:{WALLET ADDRESS}.{NAMA WORKER}#{KODE REFERAL}`
   - Simpan File, (Tekan CTRL+X, lalu tekan Y,lalu tekan Enter)
 - Jalankan miner
